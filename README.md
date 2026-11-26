@@ -88,7 +88,7 @@ Ce projet avait plusieurs objectifs :
 Pour tester le projet localement, il suffit de cloner le repository :
 
 ```bash
-git clone https://github.com/Joseph-Nostra/ECSInformatique-.git
+git clone https://github.com/Youssef-Zhar/ECSInformatique-.git
 ```
 
 Puis accéder au dossier :
